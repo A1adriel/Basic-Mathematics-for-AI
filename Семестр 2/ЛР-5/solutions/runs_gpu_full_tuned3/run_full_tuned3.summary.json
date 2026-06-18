@@ -1,0 +1,20 @@
+{
+  "notebook": "themes/05-Full-Transformer/lab/solutions/runs_gpu_full_tuned3/01_full_transformer_wikitext2_solution.gpu_full_tuned3.executed.ipynb",
+  "runtime_profile": "GPU-friendly",
+  "nbconvert_exit_code": null,
+  "elapsed_minutes_total": 29.166666666666668,
+  "summary": {
+    "runtime_profile": "GPU-friendly",
+    "test_loss": 1.6145658493041992,
+    "test_accuracy": 0.5670628547668457,
+    "test_perplexity": 5.025705536205121,
+    "baseline_perplexity": 24.58518521369101,
+    "success_count": 17,
+    "probe_count": 20,
+    "mean_match_ratio": 0.66875,
+    "generation_pass": true,
+    "attention_future_leak_pass": true,
+    "overall_pass": true,
+    "elapsed_minutes": 29.084952727953592
+  }
+}

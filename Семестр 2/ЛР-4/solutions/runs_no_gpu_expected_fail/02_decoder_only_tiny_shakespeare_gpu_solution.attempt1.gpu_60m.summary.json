@@ -1,0 +1,18 @@
+{
+  "baseline_pass": true,
+  "baseline_perplexity": 26.929200704052754,
+  "completed_steps": 1200,
+  "cpu_reference_pass": false,
+  "cpu_reference_perplexity": 7.64,
+  "generation_pass": false,
+  "mean_match_ratio": 0.209375,
+  "overall_pass": false,
+  "profile_name": "gpu_60m",
+  "prompt_count": 20,
+  "stop_reason": "time_budget_reached",
+  "success_count": 12,
+  "test_perplexity": 13.907541802179162,
+  "timed_budget_minutes": 1.0,
+  "timed_elapsed_minutes": 2.8975931020000036,
+  "warmup_minutes": 0.026857425166478304
+}

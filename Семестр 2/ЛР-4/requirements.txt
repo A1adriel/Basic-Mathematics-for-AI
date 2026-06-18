@@ -1,0 +1,8 @@
+tensorflow>=2.16,<2.20
+numpy>=1.26,<2.1
+matplotlib>=3.8,<3.10
+scikit-learn>=1.4,<1.7
+jupyter>=1.0,<1.2
+ipykernel>=6.29,<7
+nbformat>=5.10,<6
+nbconvert>=7.16,<8

@@ -1,0 +1,26 @@
+{
+  "notebook": "themes/05-Full-Transformer/lab/solutions/runs_gpu_full/01_full_transformer_wikitext2_solution.gpu_full_allow_errors.executed.ipynb",
+  "finished_at": "2026-04-14T16:23:32+0300",
+  "elapsed_minutes_total": 27.677,
+  "gpu_preflight_passed": true,
+  "test_perplexity": "5.0257",
+  "baseline_perplexity": "24.5852",
+  "test_accuracy": "0.5671",
+  "success_count_raw": "0/20",
+  "mean_match_ratio": "0.0768",
+  "baseline_pass_raw": null,
+  "generation_pass_raw": null,
+  "overall_pass_raw": null,
+  "errors": [
+    {
+      "cell_index": 12,
+      "ename": "AssertionError",
+      "evalue": "Не выполнен generation quality gate."
+    },
+    {
+      "cell_index": 14,
+      "ename": "AssertionError",
+      "evalue": "Итоговый quality gate не пройден."
+    }
+  ]
+}

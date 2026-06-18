@@ -1,0 +1,7 @@
+[INFO] COURSE_RUNTIME_MODE=local-gpu
+[INFO] Сценарий: warm-up + timed-run
+[INFO] Измеряемый бюджет после warm-up: 60 минут
+[INFO] Выполнение GPU solution через nbconvert
+[INFO] Входная тетрадь: /home/sorcerer/Projects/edu-ai-math-essentials/themes/04-Autoregression/lab/solutions/02_decoder_only_tiny_shakespeare_gpu_solution.ipynb
+[INFO] Целевой выход: themes/04-Autoregression/lab/solutions/runs_stability_a/02_decoder_only_tiny_shakespeare_gpu_solution.executed.ipynb
+[INFO] ===== Attempt 1/2 | profile=gpu_60m =====

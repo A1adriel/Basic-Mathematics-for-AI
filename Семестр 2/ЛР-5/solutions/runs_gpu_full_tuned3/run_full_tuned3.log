@@ -1,0 +1,14 @@
+[INFO] start: 2026-04-28T13:55:46+03:00
+[INFO] COURSE_RUNTIME_PROFILE=GPU-friendly
+[NbConvertApp] Converting notebook themes/05-Full-Transformer/lab/solutions/01_full_transformer_wikitext2_solution.ipynb to notebook
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1777373749.716189  519782 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+I0000 00:00:1777373749.752918  519782 cpu_feature_guard.cc:227] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI AVX_VNNI_INT8 AVX_NE_CONVERT FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1777373750.683444  519782 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+W0000 00:00:1777373751.520422  519782 gpu_device.cc:2459] TensorFlow was not built with CUDA kernel binaries compatible with compute capability 12.0a. CUDA kernels will be jit-compiled from PTX, which could take 30 minutes or longer.
+W0000 00:00:1777373751.530425  519782 gpu_device.cc:2459] TensorFlow was not built with CUDA kernel binaries compatible with compute capability 12.0a. CUDA kernels will be jit-compiled from PTX, which could take 30 minutes or longer.
+I0000 00:00:1777373751.704614  519782 gpu_device.cc:2043] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 9748 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 5070 Ti Laptop GPU, pci bus id: 0000:02:00.0, compute capability: 12.0a
+[NbConvertApp] Writing 147537 bytes to themes/05-Full-Transformer/lab/solutions/runs_gpu_full_tuned3/01_full_transformer_wikitext2_solution.gpu_full_tuned3.executed.ipynb
+[INFO] nbconvert finished: 2026-04-28T14:24:56+03:00
